@@ -1,0 +1,26 @@
+[
+    {
+        "project_name":10,
+        "project_description":10,
+        "Client":10,
+        "Contractor":10,
+        "max_X":10,
+        "min_X":10,
+        "max_Y":10,
+        "min_Y":10,
+        "max_Z":10,
+        "min_Z":10
+    },
+    {
+        "project_name":10,
+        "project_description":10,
+        "Client":10,
+        "Contractor":10,
+        "max_X":10,
+        "min_X":10,
+        "max_Y":10,
+        "min_Y":10,
+        "max_Z":10,
+        "min_Z":10
+    }
+]
